@@ -1,0 +1,4 @@
+version: STSv1
+mode: enforce
+mx: masters-tax.mail.protection.outlook.com
+max_age: 86400
